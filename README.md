@@ -1,0 +1,2 @@
+# SMIT-CONNECT---Training-and-Placement-App
+SMIT Connect is a web application whose main aim is to unite the college students and companies on one common platform. Due to this job and internship searching will become easier for students The system would store all the academics as well as personal details of the students who wish to be placed and the companies who offer jobs/internship to the students. Students can apply to companies of their choice.
